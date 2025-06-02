@@ -1,10 +1,10 @@
 ## Beleza? Me chamo Alessandra 👋
 
 
-- 🔭 Estagiária de suporte de T.I 
+- 💼Suporte de T.I.
 - 🌱 Cursando ADS 3/5 ...
 - 📫 Contato via: Alessandrakrasniak@gmail.com ...
-- 😄 Pronomes: ela/dela
+- 👧 Pronomes: ela/dela
 
 
 <div>
