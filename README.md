@@ -2,8 +2,8 @@
 
 
 - 💼Suporte de T.I.
-- 🌱 Cursando ADS 3/5 ...
-- 📫 Contato via: Alessandrakrasniak@gmail.com ...
+- 🌱 Cursando ADS 3/5
+- 📫 Contato via: Alessandrakrasniak@gmail.com
 - 👧 Pronomes: ela/dela
 
 
