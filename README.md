@@ -29,4 +29,4 @@
 <br>
 <h2>Repositórios</h2>
 <h4>Aulas</h4>
-|**Aulas POO Senac** | <a href="https://github.com/AleKrasniak/PooPythonSenac">📁</a>
+|<b>Aulas POO Senac</b> | <a href="https://github.com/AleKrasniak/PooPythonSenac">📁</a>
