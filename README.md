@@ -3,7 +3,7 @@
 
 - 💼Suporte de T.I.
 - 🌱 Cursando ADS 3/5
-- 📫 Contato via: Alessandrakrasniak@gmail.com
+- 📫 Contato via: <a href="mailto:Alessandrakrasniak@gmail.com" style="color: inherit; text-decoration: none;">Alessandrakrasniak@gmail.com</a>
 - 👧 Pronomes: ela/dela
 
 
