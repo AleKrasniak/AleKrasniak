@@ -29,4 +29,20 @@
 <br>
 <h2>Repositórios</h2>
 <h4>Aulas</h4>
-| <b>Aulas POO Senac</b> | <a href="https://github.com/AleKrasniak/PooPythonSenac">📁</a>
+<table>
+  <tr>
+    <th><b>Nome</b></th>
+    <th><b>Diretório</b></th>
+  </tr>
+  <tr>
+    <td>Aulas POO Senac</td>
+    <td><a href="https://github.com/AleKrasniak/PooPythonSenac">📁</a></td>
+  </tr>
+  <tr>
+    <td>Startup</td>
+    <td><a href="https://alekrasniak.github.io/Site-startup-Busque-Studioss/home">📁</a></td>
+  </tr>
+</table>
+
+
+
