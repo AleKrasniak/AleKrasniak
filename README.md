@@ -45,6 +45,10 @@
     <td>Startup</td>
     <td><a href="https://alekrasniak.github.io/Site-startup-Busque-Studioss/home">📁</a></td>
   </tr>
+  <tr>
+    <td>Aulas Kaggle</td>
+    <td><a href="https://github.com/AleKrasniak/KaggleSenacAtividades">📁</a></td>
+  </tr>
 </table>
 
 
