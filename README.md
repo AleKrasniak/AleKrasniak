@@ -1,11 +1,10 @@
 ## Beleza? Me chamo Alessandra 👋
-
-
-- 💼Suporte de T.I.
-- 🌱 Cursando ADS 3/5
-- 📫 Contato via: <a href="mailto:Alessandrakrasniak@gmail.com" style="color: inherit; text-decoration: none;">Alessandrakrasniak@gmail.com</a>
-- 👧 Pronomes: ela/dela
-
+<ul style="color: black;">
+  <li>💼 Suporte de T.I.</li>
+  <li>🌱 Cursando ADS 3/5</li>
+  <li>👧 Pronomes: ela/dela</li>
+  <li>📫 Contato via: <a href="mailto:Alessandrakrasniak@gmail.com" style="color: black; text-decoration: none;">Alessandrakrasniak@gmail.com</a></li>
+</ul>
 
 <div>
 <a href="https://github.com/AleKrasniak/github-readme-stats">
