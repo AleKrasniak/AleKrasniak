@@ -1,7 +1,7 @@
 ## Beleza? Me chamo Alessandra 👋
 <ul style="color: black;">
   <li>💼 Suporte de T.I.</li>
-  <li>🌱 Cursando ADS 3/5</li>
+  <li>🌱 Cursando ADS 4/5</li>
   <li>👧 Pronomes: ela/dela</li>
   <li>📫 Contato via: <a href="mailto:Alessandrakrasniak@gmail.com" style="color: black; text-decoration: none;">Alessandrakrasniak@gmail.com</a></li>
 </ul>
