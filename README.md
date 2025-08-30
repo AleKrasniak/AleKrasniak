@@ -58,27 +58,9 @@
   </tr>
   <tr>
     <td>Front End Mentor</td>
-    <td><a href="<h4>Aulas</h4>
-<table>
-  <tr>
-    <th><b>Nome</b></th>
-    <th><b>Diretório</b></th>
-  </tr>
-  <tr>
-    <td>Aulas POO Senac</td>
-    <td><a href="https://github.com/AleKrasniak/PooPythonSenac">📁</a></td>
-  </tr>
-  <tr>
-    <td>Startup</td>
-    <td><a href="https://alekrasniak.github.io/Site-startup-Busque-Studioss/home">📁</a></td>
-  </tr>
-  <tr>
-    <td>Aulas Kaggle</td>
-    <td><a href="https://github.com/AleKrasniak/KaggleSenacAtividades">📁</a></td>
-  </tr>
-</table>">📁</a></td>
-  </tr>
+    <td><a href="https://github.com/AleKrasniak/FrontEndMentor">📁</a></td>
 </table>
+
 
 
 
