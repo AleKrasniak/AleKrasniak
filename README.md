@@ -4,6 +4,8 @@
   <li>🌱 Cursando ADS 4/5</li>
   <li>👧 Pronomes: ela/dela</li>
   <li>📫 Contato via: <a href="mailto:Alessandrakrasniak@gmail.com" style="color: black; text-decoration: none;">Alessandrakrasniak@gmail.com</a></li>
+  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/alessandra-krasniak/" style="color: black; text-decoration: none;">alessandra-krasniak</a></li>
+  <li>🎬 Letterboxd: <a href="https://letterboxd.com/Aletyks/" style="color: black; text-decoration: none;">Aletyks</a></li>
 </ul>
 
 <div>
